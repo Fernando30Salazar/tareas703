@@ -37,7 +37,7 @@ export default function Login() {
         <div className="mb-8 text-center">
           <div className="mx-auto mb-3 h-10 w-10 rounded-card bg-ink" />
           <h1 className="font-display text-2xl font-semibold text-ink">Tareas del equipo</h1>
-          <p className="mt-1 text-sm text-muted">Mismas tareas, progreso de cada quien.</p>
+          <p className="mt-1 text-sm text-muted">NSQK</p>
         </div>
 
         <form onSubmit={handleSubmit} className="rounded-card border border-line bg-surface p-6">
